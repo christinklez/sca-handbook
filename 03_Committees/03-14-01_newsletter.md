@@ -35,9 +35,9 @@ The editor is appointed by the Publications Committee Chair with the approval of
 
    e. Includes in each issue of the _Newsletter_:
 
-      i. a calendar of upcoming events of interest to the membership. This calendar should include dates and locations of upcoming SCA Board meetings. 
+       i. a calendar of upcoming events of interest to the membership. This calendar should include dates and locations of upcoming SCA Board meetings. 
 
-      ii.	a copyright statement as follows: “Copyright [current year] by the Society of California Archivists. Requests to republish or distribute copyrighted material in the newsletter should be directed to the Chair of SCA’s Publications Committee.”
+       ii.	a copyright statement as follows: “Copyright [current year] by the Society of California Archivists. Requests to republish or distribute copyrighted material in the newsletter should be directed to the Chair of SCA’s Publications Committee.”
 
 2. Reports activities to the Publications Committee Chair in anticipation of the Board’s quarterly meetings. An annual budget for the _Newsletter_ as well as a final accounting of the past year’s expenditures and activities should be submitted to the Publications Committee Chair prior to the Board’s Fall meeting. This report will be included in the Publications Committee's annual report.
 
