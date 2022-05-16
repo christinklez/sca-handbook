@@ -11,6 +11,6 @@
   - 1-9-1     [Calendar: SCA]({{ site.baseurl }}{{ page.dir }}01-09-01_calendar-sca.html)
   - 1-9-2     [Mailing Information]({{ site.baseurl }}{{ page.dir }}01-09-02_mailing-info.html)
   - 1-9-3     [SCA Identity Guidelines]({{ site.baseurl }}{{ page.dir }}01-09-03_identity-guide.html)
-  - 1-9-4     Records Retention Schedule
+  - 1-9-4     [Records Retention Schedule]({{ site.baseurl }}{{ page.dir }}01-09-04_records-retention.html)
   - 1-9-5     [Records Destruction Calendar]({{ site.baseurl }}{{ page.dir }}01-09-05_records-destruction.html)
   - 1-9-6     [SCA Archives]({{ site.baseurl }}{{ page.dir }}01-09-06_sca-archives.html)
