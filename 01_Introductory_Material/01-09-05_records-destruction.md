@@ -39,7 +39,8 @@ Records Destruction Calendar for years 1995-2000
 |          | _Resolutions see **Minutes/Resolutions**_                                                                |
 |          | _Scholarship Applications see **Correspondence/Subject**_                                                |
 | 22       | Working Papers                                       | Perm           | Perm | Perm | Perm | Perm | Perm |
-| 1-4Table.docx rev 07/2016                                                                                           |
+
+_1-4Table.docx rev 07/2016_
 
 ***
 
