@@ -14,7 +14,7 @@
   - 2-5-4     [Cost of Membership]({{ site.baseurl }}{{ page.dir }}02-05-04_cost-of-membership.html)
   - 2-5-5     [Education Fund  Guidelines]({{ site.baseurl }}{{ page.dir }}02-05-05_education-fund-guide.html)
   - 2-5-6     [Guidelines for Annual Expenditures from the SCA General Fund]({{ site.baseurl }}{{ page.dir }}02-05-06_annual-expenditures-guide.html)
-  - 2-5-7     Reimbursement Form
+  - 2-5-7     [Reimbursement Form]({{ site.baseurl }}{{ page.dir }}02-05-07_reimbursement-form.html)
   - 2-5-8     [Reimbursement Policy]({{ site.baseurl }}{{ page.dir }}02-05-08_reimbursement-policy.html)
   - 2-5-9     [Honoraria Policy]({{ site.baseurl }}{{ page.dir }}02-05-09_honoraria-policy.html)
   - 2-5-10   [Cancellation and Refund Policy]({{ site.baseurl }}{{ page.dir }}02-05-10_cancellation-and-refund-policy.html)
