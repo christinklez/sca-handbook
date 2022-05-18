@@ -11,7 +11,7 @@ Records Retention Schedule and Vital Records Listing
 | Series # | Records Series                                       | Responsible Officer | Retention Period | Legal Citation  | To Society Archives (yes/no) | Vital (yes/no) | Comments/Suggestions |
 | 1        | Accounts Payable                                     | Treasurer           | 3 yrs            | 26 CFR 1.6001-1 | No                           | Yes            | passed along         |
 | 2        | Accounts Receivable                                  | Treasurer           | 3 yrs            | Admin           | No                           | Yes            | passed along         |
-| 3        | Annual Financial Report/General Account              | Treasurer           | Perm             | Admin           | Yes                          | No             | keep 1-2 years; then to Archives | |
+| 3        | Annual Financial Report/General Account              | Treasurer           | Perm             | Admin           | Yes                          | No             | keep 1-2 years; then to Archives |
 | 4        | Association History                                  | President           | Perm             | Admin           | Yes                          | No             | handbook is revised every 5 years, updates should be sent to Archives annually, refer to Section 4-4, No. 7 in handbook |
 | 5        | Audits - Internal and External                       | Vice-President      | 5 yrs            | 26 CFR 1.6001-1/Admin | No                     | No             | passed along         |
 | 6        | Balance Sheets/Income Statements                     | Treasurer           | 3 yrs            | Admin           | No                           | Yes            | passed along         |
