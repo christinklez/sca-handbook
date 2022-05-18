@@ -17,8 +17,8 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
   - 1-9-1     [Calendar: SCA]({{ site.baseurl }}/01_Introductory_Material/01-09-01_calendar-sca.html)
   - 1-9-2     [Mailing Information]({{ site.baseurl }}/01_Introductory_Material/01-09-02_mailing-info.html)
   - 1-9-3     [SCA Identity Guidelines]({{ site.baseurl }}/01_Introductory_Material/01-09-03_identity-guide.html)
-  - 1-9-4     Records Retention Schedule
-  - 1-9-5     Records Destruction Calendar
+  - 1-9-4     [Records Retention Schedule]({{ site.baseurl }}/01_Introductory_Material/01-09-04_records-retention.html)
+  - 1-9-5     [Records Destruction Calendar]({{ site.baseurl }}/01_Introductory_Material/01-09-05_records-destruction.html)
   - 1-9-6     [SCA Archives]({{ site.baseurl }}/01_Introductory_Material/01-09-06_sca-archives.html)
 
 ## [Part 2: Governing Body ]({{ site.baseurl }}/02_Governing_Body/)
@@ -135,8 +135,8 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 
 ***
 
-# About
-Insert some info about SCA and the SCA Handbook.
+# About the Society of California Archivists
+For more information about the Society of California Archivists, visit: [https://www.calarchivists.org/About_SCA/Mission](https://www.calarchivists.org/About_SCA/Mission)
 
 # Contact
-Insert some contact info.
+If you have questions about the SCA Handbook, please contact [secretary@calarchivists.org](mailto:secretary@calarchivists.org).
