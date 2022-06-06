@@ -125,4 +125,4 @@ These Bylaws may be amended or expanded by the affirmative vote of three-fifths 
 
 ***
 
-_Revision history: 9/13 tep; 07/2016 llc; 20/2020 mh_
+_Revision history: 9/13 tep; 07/2016 llc; 02/2020 mh_
