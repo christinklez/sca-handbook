@@ -50,7 +50,7 @@ title: 2-5-2 Budget Categories
 
 ## Restricted Funds Expenses
 
-| Scholarships   | Mink scholarship(s), Gray Scholarship(s), Continuing Education |
+| Scholarships   | Mink scholarship(s), Gray Scholarship(s), Continuing Education, Advancing Equity Scholarship |
 | Travel/Lodging | AGM speakers |
 | Honoraria      | AGM speakers |
 
