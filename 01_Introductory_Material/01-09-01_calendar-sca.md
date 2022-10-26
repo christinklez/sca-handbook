@@ -54,7 +54,7 @@ annual business meeting (Bylaws IV.3).
 - Quarterly Board meeting (traditionally when the approval of the next fiscal year’s budget occurs).
 
 ## December
-- Deadline for submission of information for _Newsletter) (December 1).
+- Deadline for submission of information for _Newsletter_) (December 1).
 
 ***
 
