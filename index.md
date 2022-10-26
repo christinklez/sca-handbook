@@ -60,7 +60,7 @@ The SCA Handbook is intended to be a practical tool outlining the major duties o
 - 3-3     [Awards Committee]({{ site.baseurl }}/03_Committees/03-03_awards.html)
   - 3-3-1     [Archives Appreciation Award]({{ site.baseurl }}/03_Committees/03-03-01_archives-appreciation.html)
   - 3-3-2     [Career Achievement Award]({{ site.baseurl }}/03_Committees/03-03-02_career-achievement.html)
-  - 3-3-3     [Sustained Service Award]({{ site.baseurl }}/03_Cmmittees/03-03-03_sustained-service.html)
+  - 3-3-3     [Sustained Service Award]({{ site.baseurl }}/03_Committees/03-03-03_sustained-service.html)
   - 3-3-4     Co-sponsored Award:  [Archival Award of Excellence]({{ site.baseurl }}/03_Committees/03-03-04_archival-award-of-excellence.html)
   - 3-3-5     [James V. Mink Scholarship]({{ site.baseurl }}/03_Committees/03-03-05_mink-scholarship.html)
     - 3-3-5-1     Mink Scholarship Application Form (Sample)
