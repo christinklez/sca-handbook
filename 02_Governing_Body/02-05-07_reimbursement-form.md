@@ -5,7 +5,7 @@ title: 2-5-7 Reimbursement Form
 
 # 2-5-7 Reimbursement Form (Sample)
 
-[Reimbursement_Form.pdf](https://github.com/calarchivists/sca-handbook/forms/Reimbursement_Form.pdf)
+[Reimbursement_Form.pdf](https://github.com/calarchivists/sca-handbook/docs/Reimbursement_Form.pdf)
 
 ***
 
